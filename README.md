@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**PolykarposPolykarpidis/PolykarposPolykarpidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Agile Actors as a Data Engineer.
 - ✨ I have a PhD in musicology specializing in its computational approach.
 - 🌱 I’m currently learning git and github.
@@ -14,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: polykarpospolykarpidis@gmail.com
 - 😄 Pronouns: Polýkarpos Polykarpídis
 - ⚡ Fun fact: I love music and programming.
--->
+
