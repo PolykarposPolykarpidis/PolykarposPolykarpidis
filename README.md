@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning PyTorch.
 - 👯 I’m looking to collaborate on Computational Musicology.
 - 🤔 I’m looking for help with new Computational approaches of Data Science.
-- 💬 Ask me about Computational Musicology, Byzantine Musicology, Data Engineer, and Data Analysis.
+- 💬 Ask me about Data Engineer, mathematics and AI.
 - 📫 How to reach me: polykarpospolykarpidis@gmail.com
 - 😄 Pronouns: Polýkarpos Polykarpídis
-- ⚡ Fun fact: I love music and programming.
+- ⚡ Fun fact: I love music, maths and programming.
 
